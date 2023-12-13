@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github.com/crossai-2033/crossai-2033/blob/main/icons/banner.png)
+![](https://github.com/crossai-2033/crossai-2033/blob/master/icons/header.png)
 <!--
 **crossai-2033/crossai-2033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
